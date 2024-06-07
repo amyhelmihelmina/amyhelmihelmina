@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @amyhelmihelmina
-- 👀 I’m interested in genetics and data analytics
-- 🌱 I’m currently learning statistical analysis using Python
+- 👀 I’m interested in life sciences (esp. genetics) and turning raw data into intelligible information
+- 🌱 Currently learning data technical skills to transition from a biology teacher into a data analyst
 - 📫 How to reach me via email: amyhelmina@icloud.com
-- 😄 Pronouns: she/her
 
 <!---
 amyhelmihelmina/amyhelmihelmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
